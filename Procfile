@@ -1,0 +1,1 @@
+web: gunicorn object_detection.wsgi --log-file -
